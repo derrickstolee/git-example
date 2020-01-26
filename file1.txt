@@ -2,6 +2,8 @@ Sentence 1
 
 Sentence 2
 
+A new sentence
+
 Sentence 3
 
 Sentence 4
